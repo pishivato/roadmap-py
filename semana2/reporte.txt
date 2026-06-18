@@ -1,0 +1,5 @@
+=== REPORTE DE RED FECHA: 2026-06-18 16:32:36 ===
+SW-IDF01        | 172.16.1.1      | ❌ -inactive
+SW-IDF02        | 172.16.2.1      | ❌ -inactive
+AP-IDF01-01     | 172.16.1.10     | ❌ -inactive
+SW-MDF          | 172.16.0.1      | ✅ -active

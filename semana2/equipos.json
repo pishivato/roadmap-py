@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "SW-IDF01",
+        "tipo": "switch",
+        "ip": "172.16.1.1",
+        "ubicacion": "IDF-01",
+        "activo": true
+    },
+    {
+        "nombre": "SW-IDF02",
+        "tipo": "switch",
+        "ip": "172.16.2.1",
+        "ubicacion": "IDF-02",
+        "activo": true
+    },
+    {
+        "nombre": "AP-IDF01-01",
+        "tipo": "access_point",
+        "ip": "172.16.1.10",
+        "ubicacion": "IDF-01",
+        "activo": false
+    },
+    {
+        "nombre": "SW-MDF",
+        "tipo": "switch",
+        "ip": "172.16.0.1",
+        "ubicacion": "MDF",
+        "activo": true
+    }
+]
